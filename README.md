@@ -9,11 +9,8 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 ```kotlin
 object **Cauafernandes** {
  val name = "Cauã Fernandes Coelho"
- val acknowledgements = "ÁREA DE CONHECIMENTO"
- 
- val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("Javascript", "Node.js", "Typescript", "React", "Angular", "AWS", "Firebase", "Database") 
-
+ val birthdate = 09/12/1998
+ val initDev = 
 }
 ```
 
@@ -50,7 +47,7 @@ object **Cauafernandes** {
 
 #### Social networks!
 
-🐦 [twitter][twitter] **|** 
+🐦 [twitter][https://www.instagram.com/cauafernandes_/] **|** 
 📺 [youtube][youtube] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
