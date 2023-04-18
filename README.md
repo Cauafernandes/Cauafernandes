@@ -10,7 +10,7 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 object **Cauafernandes** {
  val name = "Cauã Fernandes Coelho"
  val birthdate = 09/12/1998
- val initDev = 
+ val initDev = 01/06/2018
 }
 ```
 
@@ -31,11 +31,11 @@ object **Cauafernandes** {
 ## **GitHub Statistics**
 
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cauafernandes&theme=dracula&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cauafernandes&show_icons=true&theme=dracula&line_height=27" alt="**Cauã Coelho** github stats"/>
 </a>
 
 [website]: https://codedev.ga/
