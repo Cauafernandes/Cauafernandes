@@ -1,12 +1,12 @@
 ### Hi devs 👋
 
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
 Always studying and seeking to learn more about the IT market, such as new technologies and best coding practices.
 
 Starting as an intern in the IT field in 2016, I developed my skills in web development with solid knowledge of HTML5 and CSS3. Over time, I adapted to JavaScript frameworks and gained a strong foundation to transition to app development in NativeScript (Angular), creating apps for loyalty companies (cashback). However, my current focus is to become a FullStack Developer, moving towards microservices in Node.JS and delving deeper into the world of C# (ASP.NET CORE MVC).
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About me
-
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
 object **Cauafernandes** {
