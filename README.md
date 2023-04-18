@@ -6,7 +6,7 @@ Always studying and seeking to learn more about the IT market, such as new techn
 
 Starting as an intern in the IT field in 2016, I developed my skills in web development with solid knowledge of HTML5 and CSS3. Over time, I adapted to JavaScript frameworks and gained a strong foundation to transition to app development in NativeScript (Angular), creating apps for loyalty companies (cashback). However, my current focus is to become a FullStack Developer, moving towards microservices in Node.JS and delving deeper into the world of C# (ASP.NET CORE MVC).
 
-<br/><br/>
+<br/>
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About me
 
@@ -43,7 +43,7 @@ object **Cauafernandes** {
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cauafernandes&theme=dracula&hide_langs_below=1" />
 </a>
 
-<br/><br/>
+<br/>
 
 ## **GitHub Statistics**
 
@@ -58,7 +58,7 @@ object **Cauafernandes** {
 [linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
 <br>
 
-<br/><br/>
+<br/>
 
 #### Social networks!
 <a href="https://web.facebook.com/Caua98" target="_blank">
@@ -73,4 +73,3 @@ object **Cauafernandes** {
 <a href="https://www.linkedin.com/in/cauafernandes/" target="_blank">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
